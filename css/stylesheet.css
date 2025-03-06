@@ -147,6 +147,13 @@ p {
   display: flex;
   flex-direction: row;
   align-items: flex-end;
+  justify-content: center;
+  gap: 120px;
+}
+#third_solutions .icon {
+  margin-top: 35px;
+  height: 56px;
+  width: 56px;
 }
 
 #third_solutions h2 {
@@ -167,7 +174,34 @@ p {
 
 #third_solutions .tab {
   background-color: white;
+  border-radius: 20% 20% 0 0;
   width: 281px;
   height: 368px;
+  display: flex;
+  flex-direction: column;
   text-align: center;
+  align-items: center;
+  box-shadow: inset 0 -17px 26px rgba(0, 0, 0, 0.16);
+}
+
+/* Fourth Section : App */
+#fourth_app {
+  text-align: center;
+  background-image: url(/img/app-bg.jpg);
+  height: 800px;
+}
+#fourth_app h1 {
+  color: #ff634d;
+  font-size: 50px;
+  padding-top: 80px;
+}
+
+#phone-img {
+  margin-top: 40px;
+  height: 464px;
+}
+
+#fourth_app #download-icon {
+  margin-top: 26px;
+  width: 360px;
 }
