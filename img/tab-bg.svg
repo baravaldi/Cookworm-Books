@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="386" viewBox="0 0 299 386">
+  <defs>
+    <filter id="Rectangle_62" x="0" y="0" width="299" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_62-2" x="0" y="0" width="299" height="386" filterUnits="userSpaceOnUse">
+      <feOffset dy="-17" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur-2"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_21">
+      <feOffset dy="-17" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-3"/>
+      <feFlood flood-opacity="0.161" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_176" data-name="Group 176" transform="translate(-1210 -1115)">
+    <g id="Group_175" data-name="Group 175" transform="translate(1219 1124.717)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -9, -9.72)" filter="url(#Rectangle_62)">
+          <path id="Rectangle_62-3" data-name="Rectangle 62" d="M50,0H231a50,50,0,0,1,50,50V368a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V50A50,50,0,0,1,50,0Z" transform="translate(9 10)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -9, -9.72)" filter="url(#Rectangle_62-2)">
+          <path id="Rectangle_62-4" data-name="Rectangle 62" d="M50,0H231a50,50,0,0,1,50,50V368a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V50A50,50,0,0,1,50,0Z" transform="translate(9 10)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_170" data-name="Group 170" transform="translate(58 35)">
+        <g id="Group_169" data-name="Group 169" transform="translate(54)">
+          <g data-type="innerShadowGroup">
+            <circle id="Ellipse_21-2" data-name="Ellipse 21" cx="28" cy="28" r="28" transform="translate(0 0.283)" fill="#1c9368"/>
+            <g transform="matrix(1, 0, 0, 1, -121, -44.72)" filter="url(#Ellipse_21)">
+              <circle id="Ellipse_21-3" data-name="Ellipse 21" cx="28" cy="28" r="28" transform="translate(121 45)" fill="#fff"/>
+            </g>
+          </g>
+          <path id="Icon_akar-book" data-name="Icon akar-book" d="M3,8.188A6.734,6.734,0,0,1,8.393,6a6.734,6.734,0,0,1,5.393,2.188V23.506H3Zm10.786,0A6.734,6.734,0,0,1,19.179,6a6.734,6.734,0,0,1,5.393,2.188V23.506H13.786Z" transform="translate(14.214 13.541)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <text id="DIGITAL_ACCESS" data-name="DIGITAL ACCESS" transform="translate(0 76.283)" fill="#1c9368" font-size="23" font-family="Decoy-Medium, Decoy" font-weight="500" letter-spacing="0.01em"><tspan x="-46.506" y="23">DIGITAL </tspan><tspan x="-45.851" y="43">ACCESS</tspan></text>
+      </g>
+    </g>
+    <text id="Nearly_all_Cookworm_Books_books_can_be_registered_and_accessed_digitally" data-name="Nearly all Cookworm Books™ books can be registered and accessed digitally" transform="translate(1270 1309)" font-size="18" font-family="Brevia-Regular, Brevia"><tspan x="47.277" y="18">Nearly all </tspan><tspan x="4.635" y="38">Cookworm Books™ </tspan><tspan x="30.978" y="58">books can be </tspan><tspan x="24.66" y="78">registered and </tspan><tspan x="10.737" y="98">accessed digitally</tspan></text>
+  </g>
+</svg>

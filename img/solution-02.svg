@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <filter id="Ellipse_21">
+      <feOffset dy="-17" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_168" data-name="Group 168" transform="translate(0 -0.283)">
+    <g data-type="innerShadowGroup">
+      <circle id="Ellipse_21-2" data-name="Ellipse 21" cx="28" cy="28" r="28" transform="translate(0 0.283)" fill="#ff634d"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 0.28)" filter="url(#Ellipse_21)">
+        <circle id="Ellipse_21-3" data-name="Ellipse 21" cx="28" cy="28" r="28" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Icon_fa-solid-play" data-name="Icon fa-solid-play" d="M3.452,2.58A2.269,2.269,0,0,0,0,4.518V21.163A2.269,2.269,0,0,0,3.452,23.1L17.07,14.779a2.272,2.272,0,0,0,0-3.877Z" transform="translate(20.587 15.967)" fill="#fff"/>
+  </g>
+</svg>
