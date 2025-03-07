@@ -205,3 +205,50 @@ p {
   margin-top: 26px;
   width: 360px;
 }
+
+/* Final Section : Footer */
+
+footer {
+  height: 227px;
+  background-color: #1c9368;
+  display: flex;
+  justify-content: center;
+}
+
+footer ul {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+#footer-wrapper {
+  min-width: 1020px;
+  height: 127px;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+#footer-wrapper article:first-child {
+  background-color: aqua;
+  margin-right: auto;
+}
+
+#footer-wrapper article:last-child {
+  margin-top: 95px;
+}
+
+#footer-wrapper form h4 {
+  color: white;
+}
+
+#footer-wrapper form input {
+  margin-top: 8px;
+  height: 45px;
+}
+#footer-wrapper #input-box {
+  width: 424px;
+}
