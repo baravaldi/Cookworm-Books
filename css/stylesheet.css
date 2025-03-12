@@ -71,7 +71,7 @@ p {
 /* 1st-Section: The Hero */
 #first_hero {
   height: 716px;
-  background-image: url(/img/hero-bg.jpg);
+  background-image: url(../img/hero-bg.jpg);
   justify-content: center;
   display: flex;
 }
@@ -148,7 +148,7 @@ p {
 
 /* Third Section : Solution */
 #third_solutions {
-  background-image: url(/img/solution-bg.jpg);
+  background-image: url(../img/solution-bg.jpg);
   height: 450px;
   display: flex;
   flex-direction: row;
@@ -201,7 +201,7 @@ sup {
 /* Fourth Section : App */
 #fourth_app {
   text-align: center;
-  background-image: url(/img/app-bg.jpg);
+  background-image: url(../img/app-bg.jpg);
   height: 800px;
 }
 #fourth_app h1 {
